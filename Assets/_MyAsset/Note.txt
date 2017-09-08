@@ -1,0 +1,2 @@
+Title: CandyCrush
+Bandel: com.jtac.candycrush
